@@ -52,7 +52,7 @@ git clone https://github.com/yourusername/QR-Code-Generator.git
 - Responsive UI Design
 
 ## 🔗 Live Demo
-
+https://khanimran001.github.io/QR/
 
 
 ## ⭐ If you liked this project
